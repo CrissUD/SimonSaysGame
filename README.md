@@ -16,7 +16,7 @@ Dentro del curso se implementan varias características de HTML, CSS y JavaScrip
 * Uso de Displays enfocándose en el display flex-box para dar una alineación horizontal a los elementos y tengan propiedades responsive con el tamaño de la pagina.
 
 # Resultado
-A continuación se muestra el resultado del juego **Simon Says**, si quiere ver la pagina por usted mismo puede entrar al [siguiente link](https://crissud.github.io/GameJavaScript/index.html).
+A continuación se muestra el resultado del juego **Simon Says**, si quiere ver la pagina por usted mismo puede entrar al [siguiente link](https://crissud.github.io/SimonSaysGame/index.html).
 
 <div align='center'>
     <img  src='https://i.imgur.com/GRvYvje.png'>
