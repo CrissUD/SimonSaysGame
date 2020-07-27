@@ -11,11 +11,13 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    font-size: 16px;
 }
 .title h1{
     font-family: 'Permanent Marker', cursive;
     color: #fff;
     font-size: 60px;
+    text-align: center;
 }
 .gameboard {
     height: 900px;
@@ -74,8 +76,8 @@ body {
 }
 
 .btn-start {
-    width: 400px;
-    height: 100px;
+    width: 25rem;
+    height: 6.25rem;
     background: #ecf0f1;
     color: #2c3e50;
     font-size: 2.5rem;
@@ -85,8 +87,8 @@ body {
     cursor: pointer;
     border-radius: 20px;
     box-shadow: 0px 0px 23px 0px rgba(255, 94, 0, 0.75);
-    top: calc(50% + 40px);
-    left: calc(50% - 200px);
+    top: calc(50% + 2.5rem);
+    left: calc(50% - 12.5rem);
 }
 
 .gameboard div{
@@ -99,4 +101,20 @@ body {
 
 .hide {
     display: none;
+}
+
+@media (max-width: 480px){
+    body, html{
+        font-size: 11px;
+    }
+    .btn-start {
+        top: calc(50% + 8rem);
+    }
+}
+
+@media (max-width: 345px){
+    .gameboard {
+        max-height: 50vh;
+        max-width: 50vh;
+    }
 }
