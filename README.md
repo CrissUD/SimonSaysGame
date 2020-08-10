@@ -1,4 +1,4 @@
-# Portafolio Web Plantilla Responsive Design
+# Juego Simon Says Vanilla Js
 Esta es una pagina web en donde se realiza el juego **Simon Says**, creada para dar continuación del curso de **Fundamentos de JavaScript** de Platzi y asi afianzar términos básicos del lenguaje, este curso se puede encontrar en el [siguiente link](https://platzi.com/clases/fundamentos-javascript/).
 
 # Características
